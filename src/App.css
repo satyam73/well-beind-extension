@@ -1,6 +1,7 @@
 @import url("./styles/Main.css");
 @import url("./styles/Timer.css");
 @import url("./styles/WebsiteRow.css");
+@import url("./styles/AppBar.css");
 
 .App {
   text-align: center;
@@ -8,4 +9,8 @@
   background-color: var(--primary-color);
   height: 100%;
   width: 100%;
+}
+
+.icon {
+  cursor: pointer;
 }
