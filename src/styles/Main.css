@@ -1,0 +1,17 @@
+.main {
+  height: 100%;
+}
+.link {
+  /* height: 100%; */
+  cursor: pointer;
+  width: fit-content;
+}
+.appbar {
+  display: flex;
+  width: 100%;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  height: 12%;
+  justify-content: space-around;
+  align-items: center;
+}
