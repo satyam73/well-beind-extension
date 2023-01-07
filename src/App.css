@@ -2,7 +2,7 @@
 @import url("./styles/Timer.css");
 @import url("./styles/WebsiteRow.css");
 @import url("./styles/AppBar.css");
-
+@import url("./styles/AddInput.css");
 .App {
   text-align: center;
   display: block;
