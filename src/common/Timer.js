@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
-
 export default function Timer() {
   const [time, setTime] = useState({ hr: 0, min: 0, sec: 0 });
+
   // const [href, setHref] = useState([]);
   useEffect(() => {
     // handelTime();
