@@ -1,4 +1,6 @@
+@import url("./styles/Main.css");
 @import url("./styles/Timer.css");
+@import url("./styles/WebsiteRow.css");
 
 .App {
   text-align: center;

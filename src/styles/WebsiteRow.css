@@ -1,0 +1,21 @@
+.website__row {
+  width: 96%;
+  height: 50px;
+  box-shadow: 0px 0px 4px 2px #e1e1e1;
+  margin: auto;
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.website__rowText {
+  width: 80%;
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.deleteIcon {
+  color: red;
+  font-size: 20px;
+}
